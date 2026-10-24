@@ -108,6 +108,7 @@ While these are easier to set up and provide basic security guarantees with Open
 * [Hushmail](https://www.hushmail.com/) (limited OpenPGP support)
 * [Mailfence](https://www.mailfence.com/)
 * [postale.io](https://postale.io/)
+* [Private.Ki](https://private.ki/)
 * [ProtonMail](https://protonmail.com/)
 * [mailbox.org](https://mailbox.org/)
 
